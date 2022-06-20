@@ -1,0 +1,190 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "shinkansencccc",
+      "author": "ureshiaaa"
+    },
+    {
+      "id": 5,
+      "title": "kizaru",
+      "author": "mushi doto"
+    },
+    {
+      "title": "cinta segiempat",
+      "author": "dudung",
+      "id": "ea7c11d6-70e2-4a36-9f9f-8b2dbacc59d3"
+    },
+    {
+      "title": "family tomb",
+      "author": "transformer",
+      "id": "83425ed9-8b94-4128-8add-eed1242cdf70"
+    },
+    {
+      "title": "books 1",
+      "author": "dadang",
+      "id": "dbe69af0-5eaf-43fc-b660-6dce7617383d"
+    },
+    {
+      "title": "book 5",
+      "author": "maman",
+      "id": "d2b3b4b5-e67e-44f0-8194-b61ec39c0bb7"
+    },
+    {
+      "title": "books 199",
+      "author": "mimin",
+      "id": "ab06ab3a-d5ab-447e-ad63-c829b1045be1"
+    }
+  ],
+  "users": [
+    {
+      "id": 19,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "role":"admin",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "role":"admin",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 347,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "role":"admin",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "role":"user",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "role":"user",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 812,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "role":"user",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    }
+   
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
